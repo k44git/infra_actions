@@ -1,4 +1,5 @@
-name: k44CI
+# v.2
+name: CI
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   push:
